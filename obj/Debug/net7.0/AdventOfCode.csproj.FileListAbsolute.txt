@@ -1,0 +1,15 @@
+C:\Users\gsdam\git\AdventOfCode\bin\Debug\net7.0\AdventOfCode.exe
+C:\Users\gsdam\git\AdventOfCode\bin\Debug\net7.0\AdventOfCode.deps.json
+C:\Users\gsdam\git\AdventOfCode\bin\Debug\net7.0\AdventOfCode.runtimeconfig.json
+C:\Users\gsdam\git\AdventOfCode\bin\Debug\net7.0\AdventOfCode.dll
+C:\Users\gsdam\git\AdventOfCode\bin\Debug\net7.0\AdventOfCode.pdb
+C:\Users\gsdam\git\AdventOfCode\obj\Debug\net7.0\AdventOfCode.csproj.AssemblyReference.cache
+C:\Users\gsdam\git\AdventOfCode\obj\Debug\net7.0\AdventOfCode.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gsdam\git\AdventOfCode\obj\Debug\net7.0\AdventOfCode.AssemblyInfoInputs.cache
+C:\Users\gsdam\git\AdventOfCode\obj\Debug\net7.0\AdventOfCode.AssemblyInfo.cs
+C:\Users\gsdam\git\AdventOfCode\obj\Debug\net7.0\AdventOfCode.csproj.CoreCompileInputs.cache
+C:\Users\gsdam\git\AdventOfCode\obj\Debug\net7.0\AdventOfCode.dll
+C:\Users\gsdam\git\AdventOfCode\obj\Debug\net7.0\refint\AdventOfCode.dll
+C:\Users\gsdam\git\AdventOfCode\obj\Debug\net7.0\AdventOfCode.pdb
+C:\Users\gsdam\git\AdventOfCode\obj\Debug\net7.0\AdventOfCode.genruntimeconfig.cache
+C:\Users\gsdam\git\AdventOfCode\obj\Debug\net7.0\ref\AdventOfCode.dll
