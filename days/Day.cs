@@ -1,6 +1,6 @@
 public abstract class Day
 {
-    public const string newline = "\r\n";
+    public string newline = Environment.NewLine;
     public virtual object SolvePartOne(String input)
     {
         return 0;

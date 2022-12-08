@@ -1,5 +1,5 @@
-﻿string input = File.ReadAllText("Input.txt").TrimEnd();
+﻿string input = File.ReadAllText("Input.txt").TrimEnd().ReplaceLineEndings();
 
-Day4 day4 = new Day4();
-Console.WriteLine(day4.SolvePartOne(input));
-Console.WriteLine(day4.SolvePartTwo(input));
+Day1 day1 = new Day1();
+Console.WriteLine(day1.SolvePartOne(input));
+Console.WriteLine(day1.SolvePartTwo(input));
