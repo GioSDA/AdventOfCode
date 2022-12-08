@@ -1,4 +1,4 @@
-public class Day
+public abstract class Day
 {
     public const string newline = "\r\n";
     public virtual object SolvePartOne(String input)
