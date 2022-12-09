@@ -31,9 +31,9 @@ public class Day3 : Day
 
         for (int i = 0; i < rucksacks.Length; i += 3)
         {
-            HashSet<char> a = getBadges(rucksacks[i]);
-            HashSet<char> b = getBadges(rucksacks[i + 1]);
-            HashSet<char> c = getBadges(rucksacks[i + 2]);
+            HashSet<char> a = GetBadges(rucksacks[i]);
+            HashSet<char> b = GetBadges(rucksacks[i + 1]);
+            HashSet<char> c = GetBadges(rucksacks[i + 2]);
 
             foreach (char key in a)
             {
@@ -44,7 +44,7 @@ public class Day3 : Day
         return points;
     }
 
-    private HashSet<char> getBadges(string rucksack)
+    private HashSet<char> GetBadges(string rucksack)
     {
         HashSet<char> set = new HashSet<char>();
         for (int i = 0; i < rucksack.Length; i++)
